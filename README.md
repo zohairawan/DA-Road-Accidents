@@ -1,7 +1,7 @@
 # Road-Accidents
 
 ### Project Overview
-This data analysis project aims to analyze various aspects of road accidents data collected over the period of 2021 - 2022, leading to data-driven insights. 
+This data analysis project aims to create a dynamic dashboard by analyzing various aspects of road accidents data collected over the period of 2021 - 2022, leading to data-driven insights. 
 
 ---
 

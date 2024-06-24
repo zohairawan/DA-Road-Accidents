@@ -52,7 +52,7 @@
 
 
 <table>
-<tr><th>Fatal </th><th>Serious </th><th>Slight</th></tr>
+<tr><th>Fatal </th><th>Serious </th><th>Slight </th></tr>
 <tr><td>
 
 |Severity|Total|Percentage|

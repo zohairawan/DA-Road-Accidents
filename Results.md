@@ -61,8 +61,8 @@
 ---
 
 * Total Casualties & Percentage with respect vehicle type
-|Vehicle Type|Casualties|
-|---|---|
+|Vehicle Type|Casualties|Percentage|
+|---|---|---|
 |Agricultural vehicle|1032|0.2%|
 |Cars|333485|79.8%|
 |Bus|12798|3.1%|
@@ -95,6 +95,7 @@
 
 </td><td>
 
+|Month|Casualties|
 |Jan|13163|
 |Feb|14804|
 |Mar|16575|

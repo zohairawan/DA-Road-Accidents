@@ -1,5 +1,8 @@
 # Road-Accidents
 
+## Table of Contents
+[KPI's](#kpi's)
+
 ### Project Overview
 This data analysis project aims to analyze various aspects of road accidents data collected over the period of 2021 - 2022, leading to data-driven insights. 
 

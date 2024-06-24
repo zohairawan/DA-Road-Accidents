@@ -15,14 +15,14 @@
 * [XLSX](Data-Source/) - Raw Data
 
 ### Business Task
-* Client wants a Road Accident Dashboard for year 2021 and 2022 to gain insight on below requirement
+* Client wants a Road Accident Dashboard for year 2021 and 2022 to gain insights on below requirement
 
 ### KPI's
 * Primary
-    * Total Casualties taken place after accident occurred
-    * Total Casualties & Total Percentage with respect to:
+    * Total Casualties
+    * Total Casualties & Percentage with respect to:
         * Accident severity
-        * Maximum casualties by vehicle type
+        * Vehicle type
 * Secondary
     * Total Casualties with respect to vehicle type
     * Monthly trend comparing casualties for current and previous year

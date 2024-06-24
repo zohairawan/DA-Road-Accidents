@@ -27,6 +27,9 @@
 ![Dashboard](Dashboard.png)
 
 ## EDA Results
+|Total Casualties|
+|---|
+|417883|
 * Total Casualties
 |Total Casualties|
 |---|

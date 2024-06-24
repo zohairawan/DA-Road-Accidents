@@ -73,6 +73,41 @@
 ---
 
 * Monthly trend comparing casualties for current and previous year
+<table>
+<tr><th>2021</th><th>2022</th></tr>
+<tr><td>
+
+|Month|Casualties|
+|---|---|
+|Jan|18173|
+|Feb|14648|
+|Mar|17815|
+|Apr|17335|
+|May|18852|
+|Jun|18728|
+|Jul|19682|
+|Aug|18797|
+|Sep|18456|
+|Oct|20109|
+|Nov|20975|
+|Dec|18576|
+
+
+</td><td>
+
+|Jan|13163|
+|Feb|14804|
+|Mar|16575|
+|Apr|15767|
+|May|16775|
+|Jun|17230|
+|Jul|17201|
+|Aug|16796|
+|Sep|17500|
+|Oct|18287|
+|Nov|18439|
+|Dec|13200|
+</td></tr></table>
 
 ---
 

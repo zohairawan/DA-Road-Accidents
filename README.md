@@ -1,7 +1,7 @@
 # Road-Accidents
 
 ## Table of Contents
-[KPI's](#kpi's)
+<a href = "#k">KPI's</a>
 
 ### Project Overview
 This data analysis project aims to analyze various aspects of road accidents data collected over the period of 2021 - 2022, leading to data-driven insights. 
@@ -27,7 +27,7 @@ This data analysis project aims to analyze various aspects of road accidents dat
 ### Business Task
 * Client wants a dynamic Road Accident Dashboard for year 2021 and 2022 to gain insights on below requirement
 
-### KPI's
+<h3 id = "k"> KPI's </h3>
 * Primary
     * Total Casualties
     * Total Casualties & Percentage with respect to:

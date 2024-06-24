@@ -61,7 +61,6 @@
 ---
 
 * Total Casualties & Percentage with respect vehicle type
-
 |Vehicle Type|Casualties|Percentage|
 |---|---|---|
 |Agricultural_vehicle|1032|0.2%|
@@ -114,6 +113,7 @@
 ---
 
 * Casualties by road type
+
 
 ---
 

@@ -1,8 +1,7 @@
 # Road-Accidents
 
 ## Table of Contents
-<a href = "#k">KPI's</a> <br>
-<a href = "#sd">Skills</a>
+[Skills Demonstrated](#skills-demonstrated)
 
 ### Project Overview
 This data analysis project aims to analyze various aspects of road accidents data collected over the period of 2021 - 2022, leading to data-driven insights. 
@@ -13,7 +12,7 @@ This data analysis project aims to analyze various aspects of road accidents dat
 ### Tools
 * Excel
 
-<h3 id="sd"> Skills Demonstrated</h3>
+### Skills Demonstrated
 * Data Analysis Process:
     * Prepare
         * Data loading and inspection
@@ -28,7 +27,7 @@ This data analysis project aims to analyze various aspects of road accidents dat
 ### Business Task
 * Client wants a dynamic Road Accident Dashboard for year 2021 and 2022 to gain insights on below requirement
 
-<h3 id = "k"> KPI's </h3>
+### KPI's
 * Primary
     * Total Casualties
     * Total Casualties & Percentage with respect to:

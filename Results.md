@@ -96,6 +96,7 @@
 </td><td>
 
 |Month|Casualties|
+|---|---|
 |Jan|13163|
 |Feb|14804|
 |Mar|16575|

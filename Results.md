@@ -68,6 +68,7 @@
 |Other|358571|85.8%|
 
 </td><td>
+
 |Severity|Total|Percentage|
 |--|--|--|
 |Slight|351436|84.1%|

@@ -31,12 +31,6 @@
 |---|
 |417883|
 
-|Severity|Total|Percentage|
-|---|---|---|
-|Fatal|7135|1.7%|
-|Other|410748|98.3%|
-
-
 <table>
 <tr><th>Fatal </th><th>Serious</th><th>Slight</th></tr>
 <tr>

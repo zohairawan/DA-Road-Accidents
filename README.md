@@ -1,21 +1,23 @@
 # Road-Accidents
 
-### Tools Used:
+### Project Overview
+This data analysis project aims to analyze various aspects of road accidents data collected over the period of 2021 - 2022, leading to data-driven insights. 
+
+### Dataset Used:
+* [XLSX](Data-Source/) - Original "Road Accident Data" in XLSX format
+
+### Tools
 * Excel
 
-### Skills Demonstrated:
+### Skills Demonstrated
 * Data Analysis Process:
-    * Ask
     * Prepare
     * Process
     * Analyze
     * Share
 
-### Dataset Used:
-* [XLSX](Data-Source/) - Raw Data
-
 ### Business Task
-* Client wants a Road Accident Dashboard for year 2021 and 2022 to gain insights on below requirement
+* Client wants a dynamic Road Accident Dashboard for year 2021 and 2022 to gain insights on below requirement
 
 ### KPI's
 * Primary
@@ -29,3 +31,5 @@
     * Casualties by road type
     * Total casualties by road surface
     * Relation between casualties by area / location & day/night
+
+### Problems Encountered

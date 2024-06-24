@@ -47,3 +47,5 @@ This data analysis project aims to create a dynamic dashboard by analyzing vario
     * Total casualties by road surface
     * Relation between casualties by area / location & day/night
 
+### Results/Findings
+* The analysis results can be viewed [here](Results.md)

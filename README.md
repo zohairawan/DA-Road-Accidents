@@ -12,9 +12,15 @@ This data analysis project aims to analyze various aspects of road accidents dat
 ### Skills Demonstrated
 * Data Analysis Process:
     * Prepare
+        * Data loading and inspection
     * Process
+        * Handling missing values
+        * Standardizing data / proper formatting
+        * Handling incorrect data
     * Analyze
+        * Answering KPI's
     * Share
+        * Creating Dynamic Dashboard
 
 ### Business Task
 * Client wants a dynamic Road Accident Dashboard for year 2021 and 2022 to gain insights on below requirement

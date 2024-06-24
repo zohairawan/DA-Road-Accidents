@@ -30,10 +30,30 @@
 |Total Casualties|
 |---|
 |417883|
-* Total Casualties
-|Total Casualties|
-|---|
-|417883|
+
+|Severity|Total|Percentage|
+|---|---|---|
+|Fatal|7135|1.7%|
+|Other|410748|98.3%|
+
+
+<table>
+<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><td>
+
+|Table 1| Middle | Table 2|
+|--|--|--|
+|a| not b|and c |
+
+</td><td>
+
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
+
+</td></tr> </table>
+
+
 
 * Total Casualties & Percentage with respect to:
     * Accident severity

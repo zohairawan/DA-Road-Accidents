@@ -28,8 +28,9 @@
 
 ## EDA Results
 * Total Casualties
-|417883|
+|Total Casualties|
 |---|
+|417883|
 
 * Total Casualties & Percentage with respect to:
     * Accident severity

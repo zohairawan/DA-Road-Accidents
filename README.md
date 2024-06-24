@@ -37,7 +37,6 @@ This data analysis project aims to create a dynamic dashboard by analyzing vario
         * Accident severity
         * Vehicle type
 * Secondary
-    * Total Casualties with respect to vehicle type
     * Monthly trend comparing casualties for current and previous year
     * Casualties by road type
     * Total casualties by road surface

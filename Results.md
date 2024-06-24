@@ -20,3 +20,22 @@
 ---
 
 ### Data Analysis
+## KPI
+![KPI](KPI.png)
+
+## Dashboard
+![Dashboard](Dashboard.png)
+
+## EDA Results
+* Total Casualties
+|417883|
+|---|
+
+* Total Casualties & Percentage with respect to:
+    * Accident severity
+    * Vehicle type
+* Total Casualties with respect to vehicle type
+* Monthly trend comparing casualties for current and previous year
+* Casualties by road type
+* Total casualties by road surface
+* Relation between casualties by area / location & day/night

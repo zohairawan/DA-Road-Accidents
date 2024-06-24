@@ -52,7 +52,7 @@
 
 
 <table>
-<tr><th>Fatal </th><th>Serious </th><th>Slight </th></tr>
+<tr><th>Fatal</th><th>Serious</th><th>Slight</th></tr>
 <tr><td>
 
 |Severity|Total|Percentage|
@@ -63,13 +63,13 @@
 </td><td>
 
 |Severity|Total|Percentage|
-|--|--|--|--|
+|--|--|--|
 |Serious|59312|14.2%|
 |Other|358571|85.8%|
 
 </td><td>
 |Severity|Total|Percentage|
-|--|--|--|--|
+|--|--|--|
 |Slight|351436|84.1%|
 |Other|66447|15.9%|
 </tr></table>

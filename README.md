@@ -2,6 +2,7 @@
 
 ## Table of Contents
 <a href = "#k">KPI's</a>
+<a href = "#sd">KPI's</a>
 
 ### Project Overview
 This data analysis project aims to analyze various aspects of road accidents data collected over the period of 2021 - 2022, leading to data-driven insights. 
@@ -12,7 +13,7 @@ This data analysis project aims to analyze various aspects of road accidents dat
 ### Tools
 * Excel
 
-### Skills Demonstrated
+<h3 id="sd"> Skills Demonstrated</h3>
 * Data Analysis Process:
     * Prepare
         * Data loading and inspection

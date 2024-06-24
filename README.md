@@ -16,16 +16,12 @@ This data analysis project aims to create a dynamic dashboard by analyzing vario
 ---
 
 ### Skills Demonstrated
-* Data Analysis Process:
+* Data Analysis Process
     * Prepare
-        * Data loading and inspection
     * Process
-        * Handling missing values and incorrect data
-        * Properly formatting data
     * Analyze
-        * Answering KPI's
     * Share
-        * Creating Dynamic Dashboard
+* Creating Dynamic Dashboard
 
 ---
 

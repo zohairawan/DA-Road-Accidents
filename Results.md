@@ -60,12 +60,30 @@
 
 ---
 
+* Total Casualties & Percentage with respect vehicle type
+|Vehicle Type|Casualties|
+|---|---|
+|Agricultural vehicle|1032|0.2%|
+|Cars|333485|79.8%|
+|Bus|12798|3.1%|
+|Van|33472|8.0%|
+|Bike|33672|8.1%|
+|Others|3424|0.8%|
 
-* Total Casualties & Percentage with respect to:
-    * Accident severity
-    * Vehicle type
-* Total Casualties with respect to vehicle type
+---
+
 * Monthly trend comparing casualties for current and previous year
+
+---
+
 * Casualties by road type
+
+---
+
 * Total casualties by road surface
+
+---
+
 * Relation between casualties by area / location & day/night
+
+---

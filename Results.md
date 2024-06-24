@@ -93,7 +93,6 @@
 |Nov|20975|
 |Dec|18576|
 
-
 </td><td>
 
 |Month|Casualties|

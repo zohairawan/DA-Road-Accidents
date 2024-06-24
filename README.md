@@ -14,9 +14,8 @@ This data analysis project aims to analyze various aspects of road accidents dat
     * Prepare
         * Data loading and inspection
     * Process
-        * Handling missing values
-        * Standardizing data / proper formatting
-        * Handling incorrect data
+        * Handling missing values and incorrect data
+        * Properly formatting data
     * Analyze
         * Answering KPI's
     * Share
@@ -38,4 +37,3 @@ This data analysis project aims to analyze various aspects of road accidents dat
     * Total casualties by road surface
     * Relation between casualties by area / location & day/night
 
-### Problems Encountered

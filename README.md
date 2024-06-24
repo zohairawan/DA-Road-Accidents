@@ -26,6 +26,6 @@
 * Secondary
     * Total Casualties with respect to vehicle type
     * Monthly trend comparing casualties for current and previous year
-    * Maximum casualties by road type
-    * Distribution of total casualties by road surface
+    * Casualties by road type
+    * Total casualties by road surface
     * Relation between casualties by area / location & day/night

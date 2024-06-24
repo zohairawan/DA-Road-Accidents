@@ -33,6 +33,7 @@
 
 ---
 
+* Total Casualties with respect to accident severity
 <table>
 <tr><th>Fatal</th><th>Serious</th><th>Slight</th></tr>
 <tr><td>

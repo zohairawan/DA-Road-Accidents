@@ -117,7 +117,7 @@
 
 |Road_Type|Casualties|
 |---|---|
-||Unknown|1.9K|
+|Unknown|1.9K|
 |Slip road|4.7K|
 |One way street|7.4K|
 |Roundabout|26.8K|
@@ -137,7 +137,7 @@
 
 ---
 
-* Relation between casualties by area / location & day/night
+* Relation between casualties by area/location & day/night
 <table>
 <tr><th>Area</th><th>Light_Conditions</th></tr>
 <tr><td>

@@ -1,7 +1,17 @@
-### Data Preparation / Cleaning
+### Data Preparation
 * Data loading and inspection
-* Handling missing values and incorrect data
+
+---
+
+### Data Cleaning / Processing
+* Handled missing values
+    * Found blanks in 'Carriageway_Hazards', 'Road_Surface_Conditions', 'Road_Type', 'Weather_Conditions', and 'Time' fields
+* Handled incorrect data
+    * Found typos in 'Junction_Control' and 'Accident_Severity' field
 * Properly formatting data
+    * 'Accident Date' field to 'YYYY-MM-DD'
+    * 'Time' field to military time
+* Extracted month and year value from 'Accident Date' field to use in analysis
 
 ---
 

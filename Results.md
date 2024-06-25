@@ -114,6 +114,7 @@
 ---
 
 * Casualties by road type
+
 |Road_Type|Casualties|
 |---|---|
 ||Unknown|1.9K|
@@ -126,6 +127,7 @@
 ---
 
 * Total casualties by road surface
+
 |Road_Surface|Casualties|
 |---|---|
 |Dry|279445|

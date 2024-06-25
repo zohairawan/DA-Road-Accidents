@@ -61,6 +61,7 @@
 ---
 
 * Total Casualties & Percentage with respect vehicle type
+
 |Vehicle Type|Casualties|Percentage|
 |---|---|---|
 |Agricultural_vehicle|1032|0.2%|
@@ -113,14 +114,44 @@
 ---
 
 * Casualties by road type
-
+|Road_Type|Casualties|
+|---|---|
+||Unknown|1.9K|
+|Slip road|4.7K|
+|One way street|7.4K|
+|Roundabout|26.8K|
+|Dual carriageway|67.4K|
+|Single carriageway|309.7K|
 
 ---
 
 * Total casualties by road surface
+|Road_Surface|Casualties|
+|---|---|
+|Dry|279445|
+|Unknown|396|
+|Wet|115261|
+|Snow/Ice|22781|
 
 ---
 
 * Relation between casualties by area / location & day/night
+<table>
+<tr><th>Area</th><th>Light_Conditions</th></tr>
+<tr><td>
+
+|Area|Casualties|
+|---|---|
+|Rural|162.0K|
+|Urban|255.9K|
+
+</td><td>
+
+|Light_Conditions|Casualties|
+|---|---|
+|Daylight|305.0K|
+|Dark|112.9K|
+
+</td></tr></table>
 
 ---

@@ -20,13 +20,13 @@
 ---
 
 ### Data Analysis
-## KPI
+#### KPI
 ![KPI](KPI.png)
 
-## Dashboard
+#### Dashboard
 ![Dashboard](Dashboard.png)
 
-## EDA Results
+### EDA Results
 |Total Casualties|
 |---|
 |417883|

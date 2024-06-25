@@ -27,7 +27,7 @@ This data analysis project aims to create a dynamic dashboard by analyzing vario
 ---
 
 ### Business Task
-* Client wants a dynamic Road Accident Dashboard for year 2021 and 2022 to gain insights on below requirement
+* Client wants a dynamic Road Accident Dashboard for year 2021 and 2022 to gain insights on below requirements
 
 ---
 

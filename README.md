@@ -26,7 +26,7 @@ This data analysis project aims to create a dynamic dashboard by analyzing vario
     * Analyze
     * Share
 * Pivot Tables / Slicers / Timelines
-* Dynamic Dashboard
+* Interactive and dynamic Dashboard
 
 ---
 

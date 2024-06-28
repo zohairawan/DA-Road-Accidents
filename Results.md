@@ -71,7 +71,7 @@
 
 ---
 
-* Total Casualties & Percentage with respect vehicle type
+#### Total Casualties & Percentage with respect vehicle type
 
 |Vehicle Type|Casualties|Percentage|
 |---|---|---|
@@ -84,7 +84,7 @@
 
 ---
 
-* Monthly trend comparing casualties for current and previous year
+#### Monthly trend comparing casualties for current and previous year
 <table>
 <tr><th>2021</th><th>2022</th></tr>
 <tr><td>
@@ -124,7 +124,7 @@
 
 ---
 
-* Casualties by road type
+#### Casualties by road type
 
 |Road_Type|Casualties|
 |---|---|
@@ -137,7 +137,7 @@
 
 ---
 
-* Total casualties by road surface
+#### Total casualties by road surface
 
 |Road_Surface|Casualties|
 |---|---|
@@ -148,7 +148,7 @@
 
 ---
 
-* Relation between casualties by area/location & day/night
+#### Relation between casualties by area/location & day/night
 <table>
 <tr><th>Area</th><th>Light_Conditions</th></tr>
 <tr><td>

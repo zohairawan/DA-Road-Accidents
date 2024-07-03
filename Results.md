@@ -75,7 +75,7 @@
 
 |Vehicle Type|Casualties|Percentage|
 |---|---|---|
-|Agricultural_vehicle|1032|0.2%|
+|Agricultural vehicle|1032|0.2%|
 |Cars|333485|79.8%|
 |Bus|12798|3.1%|
 |Van|33472|8.0%|
@@ -126,7 +126,7 @@
 
 #### Casualties by road type
 
-|Road_Type|Casualties|
+|Road Type|Casualties|
 |---|---|
 |Unknown|1.9K|
 |Slip road|4.7K|
@@ -139,7 +139,7 @@
 
 #### Total casualties by road surface
 
-|Road_Surface|Casualties|
+|Road Surface|Casualties|
 |---|---|
 |Dry|279445|
 |Unknown|396|

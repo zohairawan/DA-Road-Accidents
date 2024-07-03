@@ -3,3 +3,6 @@ Data-Source-Copy/*
 
 # Ignores accident icon
 img/*
+
+# Ignores the source video for this project
+Source.txt

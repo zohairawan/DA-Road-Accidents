@@ -150,7 +150,7 @@
 
 #### Relation between casualties by area/location & day/night
 <table>
-<tr><th>Area</th><th>Light_Conditions</th></tr>
+<tr><th>Area</th><th>Light Conditions</th></tr>
 <tr><td>
 
 |Area|Casualties|

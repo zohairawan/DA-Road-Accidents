@@ -160,7 +160,7 @@
 
 </td><td>
 
-|Light_Conditions|Casualties|
+|Light Conditions|Casualties|
 |---|---|
 |Daylight|305.0K|
 |Dark|112.9K|

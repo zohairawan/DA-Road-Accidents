@@ -1,8 +1,20 @@
-### Data Preparation
-* Data loading and inspection
+### Tools
+* Excel
 
 ---
 
+### Skills Demonstrated
+* Data Analysis Process
+    * Prepare
+    * Process
+    * Analyze
+    * Share
+* Pivot Tables / Slicers / Timelines
+* Interactive and dynamic Dashboard
+
+---
+
+<!--
 ### Data Cleaning / Processing
 * Handled missing values
     * Found blanks in 'Carriageway_Hazards', 'Road_Surface_Conditions', 'Road_Type', 'Weather_Conditions', and 'Time' fields
@@ -12,6 +24,7 @@
     * 'Accident Date' field to 'YYYY-MM-DD'
     * 'Time' field to military time
 * Extracted month and year value from 'Accident Date' field to use in analysis
+-->
 
 ---
 
@@ -26,6 +39,7 @@
     * Casualties by road type
     * Total casualties by road surface
     * Relation between casualties by area / location & day/night
+
 
 ---
 

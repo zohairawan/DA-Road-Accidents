@@ -24,9 +24,9 @@
     * 'Accident Date' field to 'YYYY-MM-DD'
     * 'Time' field to military time
 * Extracted month and year value from 'Accident Date' field to use in analysis
--->
 
 ---
+-->
 
 ### Exploratory Data Analysis
 * EDA involved exploring the accidents data to answer key questions such as:
@@ -39,13 +39,9 @@
     * Casualties by road type
     * Total casualties by road surface
     * Relation between casualties by area / location & day/night
-
+* ![KPI](KPI.png)
 
 ---
-
-### Data Analysis
-#### KPI
-![KPI](KPI.png)
 
 #### Dashboard
 ![Dashboard](Dashboard.png)
